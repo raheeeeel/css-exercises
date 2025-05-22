@@ -1,0 +1,20 @@
+.identical,
+.identical2 {
+    background-color: #ffb6c1;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.identical2{
+    font-size: 24px;
+}
+
+#firstID{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#secondID{
+    background-color: #00fa9a;
+    font-size: 24px;
+    font-weight: 900;
+}
